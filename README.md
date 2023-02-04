@@ -6,7 +6,6 @@
 
 Информация: Дополнительно выполнен запрос на имена одногрупников, находящиеся в Москве, в возрасте от 18 до 45 лет.
 
-Примечание: 
 
-* https://onecompiler.com/mysql
 * https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler
+* https://onecompiler.com/mysql

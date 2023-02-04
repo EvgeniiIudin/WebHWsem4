@@ -153,7 +153,7 @@ $workExperience = [
               class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Образование</h2>
           
           <div class="w3-container">
-            <h5 class="w3-opacity"><b>London Business School</b></h5>
+            <h5 class="w3-opacity"><b>Челябинский механико-технологический техникум</b></h5>
             <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2006 - 2010</h6>
             <p>Среднее профессиональное образование</p>
             <hr>
